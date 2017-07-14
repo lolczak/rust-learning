@@ -3,4 +3,7 @@ name = "rust-learning"
 version = "0.1.0"
 authors = ["lolczak <lukasz.jan.olczak@gmail.com>"]
 
+[[bin]]
+name = "app"
+
 [dependencies]
