@@ -27,7 +27,12 @@ fn variables_foo() -> () {
 
     n = 3;
 
+    let p = pi as i32;
+
+    println!("p = {0}", p);
+
     //n = 5; re-assignment of immutable variable
+
 
 
     return ();
